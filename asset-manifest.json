@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pianoTyper/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/pianoTyper/static/js/main.1b626837.chunk.js",
+    "main.js.map": "/pianoTyper/static/js/main.1b626837.chunk.js.map",
+    "runtime-main.js": "/pianoTyper/static/js/runtime-main.bbfbbbe2.js",
+    "runtime-main.js.map": "/pianoTyper/static/js/runtime-main.bbfbbbe2.js.map",
+    "static/js/2.82ced0fb.chunk.js": "/pianoTyper/static/js/2.82ced0fb.chunk.js",
+    "static/js/2.82ced0fb.chunk.js.map": "/pianoTyper/static/js/2.82ced0fb.chunk.js.map",
+    "static/js/3.bf76f812.chunk.js": "/pianoTyper/static/js/3.bf76f812.chunk.js",
+    "static/js/3.bf76f812.chunk.js.map": "/pianoTyper/static/js/3.bf76f812.chunk.js.map",
+    "index.html": "/pianoTyper/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/pianoTyper/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.82ced0fb.chunk.js.LICENSE.txt": "/pianoTyper/static/js/2.82ced0fb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pianoTyper/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbfbbbe2.js",
+    "static/js/2.82ced0fb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1b626837.chunk.js"
+  ]
+}
